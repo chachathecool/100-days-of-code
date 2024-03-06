@@ -1,0 +1,2 @@
+Voici mon repo 100 days of code dans lequel je pousserai chaque jour un commit avec ma progression. 
+Mon objectif, sur les prochains mois/années, est d'améliorer mes compétences en programmation en utilisant principalement FreeCodeCamp, puis Exercism. 
