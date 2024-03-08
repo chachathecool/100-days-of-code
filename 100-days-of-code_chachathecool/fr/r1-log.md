@@ -17,3 +17,6 @@ J'ai continué à faire des challenges FCC et j'ai fini la section "Learn Basic 
 
 ### R1D3
 Journée un peu moins intense mais j'ai démarré le module "Learn CSS Colors by Building a Set of Colored Markers"et terminé 22 challenges 
+
+### R1D4
+Un peu fatiguée ce soir, j'ai donc fait 20 minutes de code en continuant le module sur les Colored Markers. FCC donne une explication logique pour les couleurs en hexadecimale. Je ne m'étais jamais vraiment posée la question du pourquoi une couleur pouvait s'écrire comme ça. 
