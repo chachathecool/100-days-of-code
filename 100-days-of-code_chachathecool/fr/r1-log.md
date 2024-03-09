@@ -20,3 +20,6 @@ Journée un peu moins intense mais j'ai démarré le module "Learn CSS Colors by
 
 ### R1D4
 Un peu fatiguée ce soir, j'ai donc fait 20 minutes de code en continuant le module sur les Colored Markers. FCC donne une explication logique pour les couleurs en hexadecimale. Je ne m'étais jamais vraiment posée la question du pourquoi une couleur pouvait s'écrire comme ça. 
+
+### R1D5
+J'ai repris de l'energie et ai fait mon heure de code aujourd'hui. J'ai terminé le module sur les Colored Markers, avec plein de rappels sur notammment les arguments alpha lors de la définition de couleurs. J'ai commencé le module "Learn HTML Forms by Building a Registration Form"
