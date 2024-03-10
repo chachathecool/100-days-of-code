@@ -23,3 +23,6 @@ Un peu fatiguée ce soir, j'ai donc fait 20 minutes de code en continuant le mod
 
 ### R1D5
 J'ai repris de l'energie et ai fait mon heure de code aujourd'hui. J'ai terminé le module sur les Colored Markers, avec plein de rappels sur notammment les arguments alpha lors de la définition de couleurs. J'ai commencé le module "Learn HTML Forms by Building a Registration Form"
+
+### R1D6
+Session courte aujourd'hui met je garde le rythme. J'ai continué sur le module "Learn HTML Forms", j'aime beaucoup le fait que FCC fasse répéter des notions, tel que les <label> et <input>, ça permet de bien ancrer les notions de bases.
