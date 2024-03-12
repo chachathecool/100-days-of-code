@@ -26,3 +26,7 @@ J'ai repris de l'energie et ai fait mon heure de code aujourd'hui. J'ai terminé
 
 ### R1D6
 Session courte aujourd'hui met je garde le rythme. J'ai continué sur le module "Learn HTML Forms", j'aime beaucoup le fait que FCC fasse répéter des notions, tel que les <label> et <input>, ça permet de bien ancrer les notions de bases.
+
+### R1D7
+J'ai pris une journée de pause hier. Peut-être que je devrai me prendre 1 pause par semaine histoire de ne pas m'épuiser ?
+Dans tous les cas j'ai repris aujourd'hui et ai continué le module "Learn HTML Forms". J'ai presque terminé. Je pense, qu'après avoir fait le certification project, je me mettrai sur la lecture d'un livre d'intro sur les algorithmes. 
