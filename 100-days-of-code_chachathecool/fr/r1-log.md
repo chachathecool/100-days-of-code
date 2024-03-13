@@ -30,3 +30,6 @@ Session courte aujourd'hui met je garde le rythme. J'ai continué sur le module 
 ### R1D7
 J'ai pris une journée de pause hier. Peut-être que je devrai me prendre 1 pause par semaine histoire de ne pas m'épuiser ?
 Dans tous les cas j'ai repris aujourd'hui et ai continué le module "Learn HTML Forms". J'ai presque terminé. Je pense, qu'après avoir fait le certification project, je me mettrai sur la lecture d'un livre d'intro sur les algorithmes. 
+
+### R1D8
+J'ai fini le module "Learn HTML Forms". Je me suis donné un créneau pour faire les exercices FCC au boulot. Ca me permet de faire des pauses lorsque je ne vois plus rien dans mon code au boulot tout en continuant à améliorer mes compétences. 
