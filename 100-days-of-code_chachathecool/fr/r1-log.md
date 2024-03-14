@@ -33,3 +33,6 @@ Dans tous les cas j'ai repris aujourd'hui et ai continué le module "Learn HTML 
 
 ### R1D8
 J'ai fini le module "Learn HTML Forms". Je me suis donné un créneau pour faire les exercices FCC au boulot. Ca me permet de faire des pauses lorsque je ne vois plus rien dans mon code au boulot tout en continuant à améliorer mes compétences. 
+
+### R1D9
+Session extremement courte, et il est un peu tard. Je viens de finir une reunion avec mon groupe à l'école mais je me suis quand même motivée pour avancer sur le projet final de FCC "Survey Form"
