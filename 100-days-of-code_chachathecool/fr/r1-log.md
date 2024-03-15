@@ -36,3 +36,6 @@ J'ai fini le module "Learn HTML Forms". Je me suis donné un créneau pour faire
 
 ### R1D9
 Session extremement courte, et il est un peu tard. Je viens de finir une reunion avec mon groupe à l'école mais je me suis quand même motivée pour avancer sur le projet final de FCC "Survey Form"
+
+### R1D10
+Pfiou, il est minuit passé mais on va quand même compter cette mini session de FCC. Je me suis rendue compte que je ne faisais pas le bon projet final, j'étais en train de faire celui de la section suivante. Je ne me sentais pas complètement à l'aise, peut etre que c'est justement parce qu'il y avait des notions que je n'avais pas revu ? Dans tous les cas j'ai repris à l'étape du survey form. 
