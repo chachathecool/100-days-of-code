@@ -39,3 +39,6 @@ Session extremement courte, et il est un peu tard. Je viens de finir une reunion
 
 ### R1D10
 Pfiou, il est minuit passé mais on va quand même compter cette mini session de FCC. Je me suis rendue compte que je ne faisais pas le bon projet final, j'étais en train de faire celui de la section suivante. Je ne me sentais pas complètement à l'aise, peut etre que c'est justement parce qu'il y avait des notions que je n'avais pas revu ? Dans tous les cas j'ai repris à l'étape du survey form. 
+
+### Update 17/03/2024
+Je vais faire une pause sur le 100 days of Code car ne pouvant tout faire en même temps, je péfère me concentrer sur mon alternance. C'est à dire ma montée en compétences en entreprise et l'obtention de mon titre professionnel de Conceptrice Développeuse d'application. Je reviendrai plus tard, potentiellement en fin d'année pour un 100 days of code.
