@@ -1,0 +1,136 @@
+** start of undefined **
+
+<!DOCTYPE html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Find space</title>
+  <link rel= "stylesheet" href="styles.css">
+</head>
+
+<body>
+  <h1 id="title">A Form to Find Space</h1>
+
+  <p id="description">What is your purpose ? And what are you looking for ? Wouldn't be amazing to find the time to follow your dreams ? Well fill this form to start to find space</p>
+
+  <form id="survey-form">
+   
+    <label id="name-label" for="name">Your name</label>
+    <input id="name" type="text" required placeholder="Your name"> 
+
+    <label id="email-label" for="email">Your email</label>
+    <input id="email" type="email" required placeholder="Your email">
+
+    <label id="number-label" for="number">Your favorite number</label>
+   <input id="number" type="number" placeholder="Your favorite number" min="18" max="42"> 
+
+   <p id="parados">Where would you like to go on holidays ?</p>
+   <select id="dropdown">
+     <option value="">**Please choose an option**</option>
+     <option value="canada">Canada</option>
+     <option value="canary island">Canary Islands</option>
+     <option value="benin">Benin</option>
+     <option value="britanny">Britanny</option>
+     <option value="cambodia">Cambodia</option>
+     <option value="chile">Chile</option>
+   </select>
+
+   <p id="paratres">What do you want to prioritize ?</p>
+  <input type="radio" name="priority" value="simplicity">Simplicity
+  <input type="radio" name="priority" value="money">Money
+  <input type="radio" name="priority" value="social">Social
+
+   <p id="paraquatro">What do you want to focus on this year ?</p>
+  <input type="checkbox" value="family" class="checkbox">Family and community
+  <input type="checkbox" value="health" class="checkbox">Health
+  <input type="checkbox" value="work" class="checkbox">Craft
+
+  <textarea id="text"></textarea>
+  <button id="submit">Envoyer</button>
+
+  </form>
+</body>
+
+
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+body {
+  background-color: rgba(112, 152, 122, 60);
+}
+
+h1 {
+  text-align: center;
+  color: rgba(110, 99, 99, 14);
+  font-family: Helvetica, sans-serif; 
+  font-size: 50px;
+}
+
+p {
+  font-family: Courier;
+}
+
+#description {
+  font-weight: 900;
+  text-align: center;
+  font-size: 20px;
+}
+  
+#survey-form {
+  width: 70%;
+  margin: 0 auto;
+  text-align: center;
+}
+label {
+  display: block;
+  font-family: Courier;
+  font-weight: bold;
+}
+
+#name, #email, #number {
+  width: 300px;
+  margin-bottom: 10px
+}
+
+#dropdown {
+  margin: 0;
+  width: 300px
+
+}
+
+#parados, #paratres, #paraquatro {
+  margin-top: 20px;
+  margin-bottom: 0;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.checkbox {
+  margin-bottom: 20px; 
+}
+
+textarea {
+  margin-top: 20px;
+  display: block;
+  width: 300px;
+  margin: 0 auto;
+}
+
+#submit {
+  margin-top: 10px;
+  padding: 20px 40px;
+  width: 200px;
+  height: 30px;
+  font-weight: bold;
+  background-color: rgba(51, 42, 43, 20);
+  color: white; 
+  border-color: rgba(115, 83, 85, 45);
+  border-radius: 10px; 
+  line-height: 50%;
+}
+
+** end of undefined **
+
