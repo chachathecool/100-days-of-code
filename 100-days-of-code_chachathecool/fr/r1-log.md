@@ -33,3 +33,16 @@ Dans tous les cas j'ai repris aujourd'hui et ai continué le module "Learn HTML 
 
 ### R1D8
 J'ai fini le module "Learn HTML Forms". Je me suis donné un créneau pour faire les exercices FCC au boulot. Ca me permet de faire des pauses lorsque je ne vois plus rien dans mon code au boulot tout en continuant à améliorer mes compétences. 
+
+### R1D9
+Session extremement courte, et il est un peu tard. Je viens de finir une reunion avec mon groupe à l'école mais je me suis quand même motivée pour avancer sur le projet final de FCC "Survey Form"
+
+### R1D10
+Pfiou, il est minuit passé mais on va quand même compter cette mini session de FCC. Je me suis rendue compte que je ne faisais pas le bon projet final, j'étais en train de faire celui de la section suivante. Je ne me sentais pas complètement à l'aise, peut etre que c'est justement parce qu'il y avait des notions que je n'avais pas revu ? Dans tous les cas j'ai repris à l'étape du survey form. 
+
+### Update 17/03/2024
+Je vais faire une pause sur le 100 days of Code car ne pouvant tout faire en même temps, je péfère me concentrer sur mon alternance. C'est à dire ma montée en compétences en entreprise et l'obtention de mon titre professionnel de Conceptrice Développeuse d'application. Je reviendrai plus tard, potentiellement en fin d'année pour un 100 days of code.
+
+### R1D11
+Reprise du 100DaysOfCode. Je ne me mets pas la pression, j'essaie de coder (hors des tâches directement liées au travail) entre 25min et 1h les lundis, mardis et jeudis. Les vendredis je me concentre sur de la théorie informatique.
++ J'ai finalisé le 1er [certification project de FCC "Build a Survey Form"](/FCC_projects/build-a-survey-form.txt)
