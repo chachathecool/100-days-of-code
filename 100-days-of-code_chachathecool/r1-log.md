@@ -46,3 +46,6 @@ Je vais faire une pause sur le 100 days of Code car ne pouvant tout faire en mê
 ### R1D11
 Reprise du 100DaysOfCode. Je ne me mets pas la pression, j'essaie de coder (hors des tâches directement liées au travail) entre 25min et 1h les lundis, mardis et jeudis. Les vendredis je me concentre sur de la théorie informatique.
 + J'ai finalisé le 1er [certification project de FCC "Build a Survey Form"](/FCC_projects/build-a-survey-form.txt)
+
+### R1D12
+Commencé la section "Learn CSS Box model by Building a Rothko Painting"
