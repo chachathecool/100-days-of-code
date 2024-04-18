@@ -52,3 +52,6 @@ Commencé la section "Learn CSS Box model by Building a Rothko Painting"
 
 ### R1D13
 Continué la section sur la Rothko Painting pendant 10 min. J'ai appris comment ajouter du flou en CSS ainsi qu'un rappel pour centrer un élément en CSS. J'ai commencé à utiliser Anki pour faire des fiches de révisions.
+
+### R1D14
+FInalisé la section sur la Rothko Painting et démarré la section "learn css flexbox by building a photo gallery". J'ai répondu à mes cartes de révisions sur Anki. Il faut que je continue à etoffer tout ça au fil de mes apprentissages.
