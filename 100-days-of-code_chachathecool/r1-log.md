@@ -54,4 +54,7 @@ Commencé la section "Learn CSS Box model by Building a Rothko Painting"
 Continué la section sur la Rothko Painting pendant 10 min. J'ai appris comment ajouter du flou en CSS ainsi qu'un rappel pour centrer un élément en CSS. J'ai commencé à utiliser Anki pour faire des fiches de révisions.
 
 ### R1D14
-FInalisé la section sur la Rothko Painting et démarré la section "learn css flexbox by building a photo gallery". J'ai répondu à mes cartes de révisions sur Anki. Il faut que je continue à etoffer tout ça au fil de mes apprentissages.
+Finalisé la section sur la Rothko Painting et démarré la section "learn css flexbox by building a photo gallery". J'ai répondu à mes cartes de révisions sur Anki. Il faut que je continue à etoffer tout ça au fil de mes apprentissages.
+
+### R1D15
+J'ai fait 25 minutes de FCC. Ca serait bien si je faisais ce temps 5 fois par semaine. Ce qui est cool c'est que je redécouvre (ou découvre) des propriétés et valeurs en html et CSS. Celles que je ne connaissais pas, ou pas très bien je les ajoute en carte sur Anki pour les révisions. Par example le box-sizing: border-box qui permet de prendre en compte toute la largeur d'un élément incluant son padding et border
