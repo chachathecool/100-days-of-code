@@ -58,3 +58,7 @@ Finalisé la section sur la Rothko Painting et démarré la section "learn css f
 
 ### R1D15
 J'ai fait 25 minutes de FCC. Ca serait bien si je faisais ce temps 5 fois par semaine. Ce qui est cool c'est que je redécouvre (ou découvre) des propriétés et valeurs en html et CSS. Celles que je ne connaissais pas, ou pas très bien je les ajoute en carte sur Anki pour les révisions. Par example le box-sizing: border-box qui permet de prendre en compte toute la largeur d'un élément incluant son padding et border
+
+
+### R1D16
+Hier j'ai avancé sur la photo gallery mais j'ai oublié de le loguer.
