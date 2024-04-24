@@ -65,3 +65,6 @@ Hier j'ai avancé sur la photo gallery mais j'ai oublié de le loguer.
 
 ### R1D17
 Finalisé la section "learn css flexbox by building a photo gallery". J'ai continué d'ajouter de la syntaxe CSS sur Anki lorsqu'il y avait des éléments que je voulais retenir.
+
+### R1D18
+Démarrage de la section "learn typography by building a nutrition label". Pour l'instant on est sur de l'implémentation de html et CSS simple
