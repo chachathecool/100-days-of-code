@@ -69,3 +69,6 @@ Finalisé la section "learn css flexbox by building a photo gallery". J'ai conti
 ### R1D18
 + Démarrage de la section "learn typography by building a nutrition label". Pour l'instant on est sur de l'implémentation de html et CSS simple.
 + Ce matin j'ai démarrer la journée de boulot en répondant à mes cartes Anki. C'est génial pour réviser et retenir de la syntaxe !
+
+### R1D19
+Continué la section "learn typography by building a nutrition label".
